@@ -1,0 +1,3 @@
+﻿     Criando biblioteca C:\Users\André\Desktop\Chroma Entrega\Chroma\x64\Debug\Chroma.lib e objeto C:\Users\André\Desktop\Chroma Entrega\Chroma\x64\Debug\Chroma.exp
+Chroma.obj : error LNK2019: símbolo externo indefinido "bool __cdecl cv::imwrite(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::debug_build_guard::_InputArray const &,class std::vector<int,class std::allocator<int> > const &)" (?imwrite@cv@@YA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV_InputArray@debug_build_guard@1@AEBV?$vector@HV?$allocator@H@std@@@3@@Z) referenciado na função main
+C:\Users\André\Desktop\Chroma Entrega\Chroma\x64\Debug\Chroma.exe : fatal error LNK1120: 1 externo não resolvidos
